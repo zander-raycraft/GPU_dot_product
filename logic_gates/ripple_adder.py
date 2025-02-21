@@ -1,4 +1,4 @@
-from half_adder import HalfAdder
+from logic_gates.half_adder import HalfAdder
 
 class RippleAdder:
     '''
